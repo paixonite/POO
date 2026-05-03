@@ -1,30 +1,30 @@
-# Algorithms and Data Structures in Processing
+# Object-Oriented Programming in Java
 
 [Versão em Português](./README.md)
 
 ## 📌 About the Repository
 
-This repository contains the code I developed during the **Algorithms and Data Structures** course, part of the **Technical Program in Software Development at COLTEC-UFMG (Brazil)**.
+This repository contains the code I developed during the **Object-Oriented Programming (OOP)** course, part of the **Technical Program in Software Development at COLTEC-UFMG (Brazil)**.
 
-The programs were written in **Processing**, an open-source programming language based on Java.  
-Processing focuses on visual arts and visual learning environments, with the goal of teaching programming fundamentals in an accessible and visual way.
+The programs were written in **Java**, a robust, strongly typed, object-oriented programming language widely used in the industry for enterprise systems, web, and mobile applications.
 
-In this repository, **each folder corresponds to a different project**, covering various topics from the course.
+In this repository, **each folder (E01, E02, etc.) corresponds to a study module**, covering topics ranging from language fundamentals to advanced concepts like Polymorphism, Collections, and Serialization.
 
 ---
 
 ## ▶️ How to run the projects
 
-### 1) Installing Processing
+### 1) Prerequisites
 
-- Visit the official website: [https://processing.org/download](https://processing.org/download)
-- Download and install the latest version of Processing for your operating system.
+- Make sure you have the **JDK (Java Development Kit)** installed (version 17 or higher recommended).
+- It is recommended to use an IDE such as **IntelliJ IDEA** (as the project contains `.iml` configuration files) or **VS Code** with the Extension Pack for Java.
 
 ### 2) Opening a project
 
-- Open the **Processing IDE**.
-- Go to **File > Open...** and select the folder of the project you want to run.
+- Open your preferred IDE.
+- Go to **File > Open...** and select the repository root folder or the specific exercise folder (e.g., `E10-Serializacao-main`).
 
 ### 3) Running the code
 
-- In the IDE, click the **Run (▶️)** button to compile and execute the project.
+- Locate the main file inside the `src` folder (usually named `Main.java` or containing the `public static void main` method).
+- Click the **Run (▶️)** button in your IDE to compile and execute the program.
